@@ -1,0 +1,42 @@
+Name: David Rivers
+Email: drivers1984@jobmail.net
+Phone: +1 (555) 778-9420
+
+Summary:
+Experienced IT Technician and Support Specialist with a background in hardware repair, network setup, and Windows system administration.
+
+Skills:
+
+Windows Server & OS
+
+LAN/WAN configuration
+
+Hardware troubleshooting
+
+Helpdesk support
+
+Active Directory
+
+Office 365 Admin
+
+Experience:
+IT Support Specialist
+OrbitSys Inc. — Mar 2021 – Present
+
+Provided Tier 1 and Tier 2 support to 100+ employees
+
+Installed and maintained workstations and printers
+
+Assisted in Windows 10/11 upgrades across departments
+
+Field Service Technician
+QuickTech Support — Jan 2019 – Feb 2021
+
+Troubleshot routers and workstations for clients
+
+Installed network cables and managed switch configurations
+
+Education:
+Associate Degree in Information Technology
+Central Tech College, 2018
+

@@ -1,0 +1,32 @@
+Job Title: Frontend Developer
+Location: Remote
+Company: PixelCraft Studios
+Job Type: Full-Time
+
+Job Summary:
+We’re looking for a talented Frontend Developer with a passion for building clean, responsive, and interactive user interfaces. The ideal candidate is fluent in HTML, CSS, JavaScript, and React, and has at least 2 years of experience working on production web apps.
+
+Key Responsibilities:
+
+Convert Figma designs into high-performance code
+
+Maintain and improve website performance and accessibility
+
+Work with backend developers to integrate APIs
+
+Write clean, reusable, and well-documented code
+
+Participate in code reviews and team meetings
+
+Requirements:
+
+2+ years of professional experience in frontend development
+
+Strong knowledge of HTML, CSS, JavaScript, and React
+
+Experience with Git, REST APIs, and browser dev tools
+
+Familiarity with responsive design and cross-browser compatibility
+
+Good communication and problem-solving skills
+

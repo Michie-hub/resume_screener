@@ -1,0 +1,44 @@
+Name: Sarah Thomas
+Email: sarah.t.dev@gmail.com
+Phone: +1 (555) 912-3334
+
+Summary:
+Frontend Developer with 3+ years of experience building responsive, accessible web applications using React, HTML, CSS, and JavaScript. Adept at translating designs into high-quality code and collaborating with cross-functional teams.
+
+Skills:
+
+HTML, CSS, JavaScript
+
+React, Redux
+
+Git, GitHub
+
+REST APIs
+
+Figma to Code
+
+Responsive Design
+
+Experience:
+Frontend Developer
+TechNova Solutions — Jan 2022 – Present
+
+Built and maintained React-based components for SaaS dashboard
+
+Integrated REST APIs and optimized loading speed
+
+Worked closely with designers to implement pixel-perfect layouts
+
+Junior Web Developer
+ClearSky Labs — Jun 2020 – Dec 2021
+
+Developed mobile-friendly pages with HTML/CSS
+
+Assisted in converting mockups from Figma into functional pages
+
+Participated in daily Agile standups
+
+Education:
+B.Sc. in Computer Science
+University of Michigan, 2020
+
